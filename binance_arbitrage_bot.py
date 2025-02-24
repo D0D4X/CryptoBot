@@ -5,8 +5,8 @@ import numpy as np
 from ccxt.async_support import binance
 
 # API klíče (zajisti si vlastní)
-API_KEY = "TVŮJ_API_KEY"
-API_SECRET = "TVŮJ_API_SECRET"
+API_KEY = fCrP4X88k0NAfikTteXatayUg66giapKtwxRF93SiItnejmsNSbmmNkFFE4KISzx
+API_SECRET = meMrbPxn2aB6X5yfH9SKDEtSPChpiuAHHgyZnkkQfu4Sru7GVXhhPF4TBuaH8Wfu
 
 # Připojení k Binance
 exchange = binance({
